@@ -190,9 +190,23 @@ body{
     background-position: center center;
 }
 
+.series-1:hover{
+    background: url('..//img/series/series-1.png');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .series-2
 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('..//img/series/series-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.series-2:hover{
+    background: url('..//img/series/series-2.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -206,10 +220,24 @@ body{
     background-position: center center;
 }
 
+.series-3:hover{
+    background: url('..//img/series/series-3.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .series-4
 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('..//img/series/series-4.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.series-4:hover{
+    background: url('..//img/series/series-4.jpg');
+     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -222,10 +250,24 @@ body{
     background-position: center center;
 }
 
+.series-5:hover{
+    background: url('..//img/series/series-5.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .series-6
 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('..//img/series/series-6.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.series-6:hover{
+    background: url('..//img/series/series-6.jpg');
+     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -238,10 +280,24 @@ body{
     background-position: center center;
 }
 
+.series-7:hover{
+    background: url('..//img/series/series-7.jpg');
+     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
 .series-8
 {
     background: linear-gradient(180deg, rgba(20, 18, 24, 0.5) 0%, #2D2D2D 100%), url('..//img/series/series-8.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.series-8:hover{
+    background: url('..//img/series/series-8.jpg');
+     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
